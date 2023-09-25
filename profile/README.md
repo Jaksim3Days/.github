@@ -11,7 +11,8 @@ DB : **MariaDB**
 FE : **Flutter**   
 
 # Members
-|<img src="https://avatars.githubusercontent.com/u/52882799?s=70&v=4" width="128" />|<img src="https://github.com/EzipNaezip/gd-app/assets/52882799/f85f80c2-4c6a-4714-ab17-3c366f6521ee" width="128" />|<img src="???????" width="128" />|
+|<img src="https://avatars.githubusercontent.com/u/52882799?s=70&v=4" width="128" />|<img src="https://github.com/Jaksim3Days/.github/assets/52882799/f74b0c1d-dde8-451a-8ce5-809733826339)" width="128" />|<img src="???????" width="128" />|
 |:---------:|:---------:|:---------:
-|[박동민](https://github.com/chattymin)|[김희연](https://avatars.githubusercontent.com/u/62700196?v=4)| [디자이너님]() |
+|[박동민](https://github.com/chattymin)|[김희연](https://github.com/Happy-Lotus)| [디자이너님]() |
 | `PM` `Mobile` `Design` | `Back-End` `Server` | `합류를 기다리는 중` |
+
